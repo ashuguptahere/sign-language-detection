@@ -1,4 +1,4 @@
-import cv2
+import cv2  #hacktoberfest
 import random
 from glob import glob
 
