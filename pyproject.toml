@@ -1,0 +1,11 @@
+[project]
+name = "sign-language-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mediapipe>=0.10.18",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.5.2",
+]
