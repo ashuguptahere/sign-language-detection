@@ -1,4 +1,4 @@
-# Sign Language Classification
+# Sign Language Detection using MediaPipe and SVM
 
 ## 📥 Installation:
 
@@ -39,6 +39,15 @@ uv run scripts/train.py
 uv run scripts/test.py
 ```
 
+## 📊 Results:
+![](assets/a.jpg)
+![](assets/b.jpg)
+![](assets/d.jpg)
+![](assets/e.jpg)
+![](assets/f.jpg)
+![](assets/i.jpg)
+![](assets/k.jpg)
+
 ## 🤝 Contributing:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -52,6 +61,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🎥 Video Source [[LINK]](https://www.youtube.com/watch?v=6_gXiBe9y9A):
+The model was tested on a video sourced from YouTube to evaluate its performance. The video is included for demonstration purposes and that its ownership belongs to the original creator
 
 ---
 Made with ❤️ by [Aashish Gupta](https://github.com/ashuguptahere)
